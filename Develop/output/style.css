@@ -1,0 +1,11 @@
+.team-heading{
+    background: orange;
+    color: white;
+}
+.card-header{
+    background: purple;
+    color: white;
+}
+.card-body{
+    background: linen;
+}
